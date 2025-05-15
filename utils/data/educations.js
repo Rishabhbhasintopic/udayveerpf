@@ -7,8 +7,8 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Deploma in INFORMATION TECHNOLOGY",
-    duration: "2018 - 2019",
-    institution: "I-Tech India Computer Education",
+    title: "Senior Secondary - NON-Medical",
+    duration: "2020 - 2022",
+    institution: "D.A.V College Amritsar",
   }
 ]
