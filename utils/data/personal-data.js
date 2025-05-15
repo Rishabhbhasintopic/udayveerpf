@@ -24,5 +24,5 @@ and someone who asks "What more can be done?" and acts on it.`,
   stackOverflow: '',
   leetcode: '',
   devUsername: '',
-  resume: 'https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing'
+  resume: 'https://drive.google.com/file/d/1iXkfxitTi8PXy5layD8CLI6Sfe4yH07p/view?usp=sharing'
 };
