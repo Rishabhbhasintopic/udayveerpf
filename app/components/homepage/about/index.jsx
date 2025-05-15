@@ -24,7 +24,7 @@ function AboutSection() {
 
   {/* Terminal content */}
   <p className="font-mono mb-4 text-[#16f2b3] text-lg">
-    <span className="text-white">rishabh@elvora:~$</span> whoami
+    <span className="text-white">uday@elvora:~$</span> whoami
   </p>
   <p className="text-gray-300 font-mono text-sm lg:text-base leading-relaxed">
     {personalData.description}
